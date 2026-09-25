@@ -34,7 +34,7 @@ This tool implements a **"Schema-per-Tenant"** architecture. When you onboard a 
 
 **1. Clone & Install**
 ```bash
-git clone [https://github.com/yourusername/pg-tenant-provisioner.git](https://github.com/yourusername/pg-tenant-provisioner.git)
+git clone [https://github.com/FakhareArjumand/pg-tenant-provisioner.git](https://github.com/FakhareArjumand/pg-tenant-provisioner.git)
 cd pg-tenant-provisioner
 python3 -m venv venv
 source venv/bin/activate
